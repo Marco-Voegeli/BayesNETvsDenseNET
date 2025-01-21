@@ -17,7 +17,7 @@ This repository contains implementations of DenseNet and BayesNet architectures 
 The following images provide insights into the models' predictions:
 
 ### Ambiguous Rotated MNIST Model Predictions
-![Ambiguous Rotated MNIST](ambiguous_rotated_mnist.pdf)
+![Ambiguous Rotated MNIST](ambiguous_rotated_mnist.jpg)
 
 ### FashionMNIST Least Confident Predictions
 ![FashionMNIST Least Confident](fashionmnist_least_confident.jpg)
