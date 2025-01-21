@@ -1,0 +1,6 @@
+DenseNet: 
+AUROC for MNIST vs. FashionMNIST OOD detection based on confidence: 0.505
+AUPRC for MNIST vs. FashionMNIST OOD detection based on confidence: 0.856
+BayesNet:
+AUROC for MNIST vs. FashionMNIST OOD detection based on confidence: 0.851
+AUPRC for MNIST vs. FashionMNIST OOD detection based on confidence: 0.971
